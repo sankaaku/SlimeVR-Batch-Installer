@@ -4,4 +4,5 @@ Decided to post it because it has less issues than their current EXE Installer l
 
 ## Requirements
 # Java is needed to run SlimeVR's Server.
-The Launcher has some junk code because of newer updates.
+Just download the installer
+the auto updater is auto installed anyways.
