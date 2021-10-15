@@ -24,5 +24,3 @@ powershell -Command "Invoke-WebRequest https://github.com/SlimeVR/SlimeVR-Server
 echo %snet%>.\sver.
 :l
 start javaw -Xmx512M -jar slimevr.jar
-timeout 3
-start steam://rungameid/250820
